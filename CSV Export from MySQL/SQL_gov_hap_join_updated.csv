@@ -1,0 +1,144 @@
+RANK,happiness_score,country,governance_avg
+1,7.821,Finland,95.28
+2,7.636,Denmark,95.35
+3,7.557,Iceland,93.22
+4,7.512,Switzerland,96.69
+5,7.415,Netherlands,91.81
+6,7.404,Luxembourg,95.66
+7,7.384,Sweden,93.23
+8,7.365,Norway,93.79
+9,7.364,Israel,68.5
+10,7.2,"New Zealand",96.62
+11,7.163,Austria,87.08
+12,7.162,Australia,92.27
+13,7.041,Ireland,91.5
+14,7.034,Germany,88.42
+15,7.025,Canada,90.94
+16,6.977,"United States",77.88
+17,6.943,"United Kingdom",85.49
+18,6.92,Czechia,80.58
+19,6.805,Belgium,84.64
+20,6.687,France,80.21
+21,6.647,Bahrain,52.63
+22,6.63,Slovenia,77.27
+23,6.582,"Costa Rica",70.69
+24,6.576,"United Arab Emirates",70.28
+25,6.523,"Saudi Arabia",49.56
+26,6.512,"Taiwan Province of China",84.37
+27,6.48,Singapore,89.87
+28,6.477,Romania,59.92
+29,6.476,Spain,73.19
+30,6.474,Uruguay,83.22
+31,6.467,Italy,67.39
+33,6.447,Malta,75.41
+34,6.446,Lithuania,79.57
+35,6.391,Slovakia,67.75
+36,6.341,Estonia,87.14
+37,6.309,Panama,48.12
+38,6.293,Brazil,39.92
+39,6.262,Guatemala,25.21
+40,6.234,Kazakhstan,41.35
+41,6.221,Cyprus,69.79
+42,6.18,Latvia,75.22
+43,6.178,Serbia,46.71
+44,6.172,Chile,72.24
+45,6.165,Nicaragua,15.61
+46,6.128,Mexico,31.85
+47,6.125,Croatia,65.51
+48,6.123,Poland,65.98
+49,6.12,"El Salvador",33.87
+50,6.106,Kuwait,53.03
+51,6.086,Hungary,62.66
+52,6.071,Mauritius,74.16
+53,6.063,Uzbekistan,28.04
+54,6.039,Japan,89.62
+55,6.022,Honduras,24.66
+56,6.016,Portugal,80.15
+57,5.967,Argentina,41.44
+58,5.948,Greece,62.72
+59,5.935,"South Korea",79.22
+60,5.904,Philippines,40.19
+61,5.891,Thailand,45.01
+62,5.857,Moldova,42.34
+63,5.85,Jamaica,59.77
+64,5.828,Kyrgyzstan,20.71
+65,5.821,Belarus,15.74
+66,5.781,Colombia,44.63
+67,5.768,"Bosnia and Herzegovina",32.22
+68,5.761,Mongolia,45.9
+69,5.737,"Dominican Republic",50.86
+70,5.711,Malaysia,63.63
+71,5.6,Bolivia,24.68
+72,5.585,China,41.3
+73,5.578,Paraguay,36.04
+74,5.559,Peru,37.93
+75,5.547,Montenegro,53.52
+76,5.533,Ecuador,36.59
+77,5.485,Vietnam,41.4
+78,5.474,Turkmenistan,11.48
+80,5.459,Russia,16.88
+81,5.425,"Hong Kong S.A.R. of China",78.6
+82,5.399,Armenia,43.76
+83,5.377,Tajikistan,12.83
+84,5.377,Nepal,33.04
+85,5.371,Bulgaria,52.27
+86,5.33,Libya,4.13
+87,5.24,Indonesia,48.4
+88,5.235,"Ivory Coast",37.17
+89,5.199,"North Macedonia",52.49
+90,5.199,Albania,50.44
+91,5.194,"South Africa",46.65
+92,5.173,Azerbaijan,27.87
+93,5.164,Gambia,38.15
+94,5.155,Bangladesh,21.26
+95,5.14,Laos,28.08
+96,5.122,Algeria,23.12
+97,5.122,Liberia,24.4
+98,5.084,Ukraine,28.88
+99,5.075,Congo,17.12
+100,5.06,Morocco,41.64
+101,5.048,Mozambique,21.51
+102,5.048,Cameroon,15.87
+103,5.046,Senegal,47.54
+104,5.003,Niger,27.26
+105,4.973,Georgia,60.01
+106,4.958,Gabon,26.98
+107,4.941,Iraq,9.99
+108,4.925,Venezuela,4.82
+109,4.891,Guinea,16.66
+110,4.888,Iran,11.91
+111,4.872,Ghana,50.47
+112,4.744,Turkey,32.64
+113,4.67,"Burkina Faso",29.05
+114,4.64,Cambodia,25.13
+115,4.623,Benin,39.14
+116,4.609,Comoros,16.45
+117,4.603,Uganda,27.23
+118,4.552,Nigeria,16.79
+119,4.543,Kenya,33.17
+120,4.516,Tunisia,40.33
+121,4.516,Pakistan,21.48
+123,4.479,Mali,17.31
+124,4.459,Namibia,59.76
+125,4.396,"Eswatini, Kingdom of",26.55
+126,4.394,Myanmar,6.45
+127,4.362,"Sri Lanka",35.77
+128,4.339,Madagascar,22.63
+129,4.288,Egypt,25.12
+130,4.251,Chad,8.52
+131,4.241,Ethiopia,21.62
+132,4.197,Yemen,2.38
+133,4.153,Mauritania,24.09
+134,4.152,Jordan,49.09
+135,4.112,Togo,27.55
+136,3.777,India,47.91
+137,3.76,Zambia,36.73
+138,3.75,Malawi,34.95
+139,3.702,Tanzania,35.5
+140,3.574,"Sierra Leone",27.83
+141,3.512,Lesotho,35.81
+142,3.471,Botswana,71.39
+143,3.268,Rwanda,52.68
+144,2.995,Zimbabwe,12.1
+145,2.955,Lebanon,14.82
+146,2.404,Afghanistan,5.2
